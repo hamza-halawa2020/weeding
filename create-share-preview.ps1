@@ -28,7 +28,7 @@ function Draw-CenteredText($label,$size,$y,$height,$color,$bold=$false) {
 }
 Draw-CenteredText '❦' 35 52 46 '#e8c995'
 Draw-CenteredText 'دعوة لحضور حفل زفافنا' 25 105 42 '#e4c6b9'
-Draw-CenteredText 'يوسف وحفصة' 58 155 80 '#fff0df' $true
+Draw-CenteredText 'يوسف ♥ حفصة' 58 155 80 '#fff0df' $true
 Draw-CenteredText 'فرحتنا تكمل بوجودكم ♥' 28 242 48 '#ddbca8'
 $envelopeBounds = [Drawing.Rectangle]::new(445,320,310,170)
 $envelopeBrush = [Drawing.Drawing2D.LinearGradientBrush]::new($envelopeBounds,[Drawing.ColorTranslator]::FromHtml('#edc2b4'),[Drawing.ColorTranslator]::FromHtml('#b87d8c'),45)
