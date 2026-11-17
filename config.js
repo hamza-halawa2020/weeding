@@ -5,7 +5,7 @@ window.CONFIG = {
 
   date:           "2026-11-27T15:00:00+02:00",
   dateLabel:      "٢٧ / ١١ / ٢٠٢٦",
-  timeLabel:      "الجمعة ٢٧ نوفمبر ٢٠٢٦",
+  timeLabel:      "الجمعة ٢٧ نوفمبر ٢٠٢٦ - الساعة ٣ بعد صلاة العصر",
 
   venue:          "مسجد إسلام بالكوم الاحمر",
   mapUrl:         "https://www.google.com/maps/search/%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%D8%A7/@29.1022688,31.07939315,17z?hl=en",
