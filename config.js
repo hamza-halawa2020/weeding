@@ -1,19 +1,19 @@
 // ✏️ غيّر أي قيمة هنا وهتظهر في الموقع فوراً
 window.CONFIG = {
-  groom:          "حسام",
-  bride:          "مروة",
+  groom:          "إسلام",
+  bride:          "رحمة",
 
-  date:           "2026-11-27T15:00:00+02:00",
-  dateLabel:      "٢٧ / ١١ / ٢٠٢٦",
-  timeLabel:      "الجمعة ٢٧ نوفمبر ٢٠٢٦ - الساعة ٣ بعد صلاة العصر",
+  date:           "2026-12-04T15:00:00+02:00",
+  dateLabel:      "٤ / ١٢ / ٢٠٢٦",
+  timeLabel:      "الجمعة ٤ ديسمبر ٢٠٢٦ - كتب كتاب والفرش بعد صلاة العصر",
 
-  venue:          "مسجد إسلام بالكوم الاحمر",
+  venue:          "مسجد أمير الله",
   mapUrl:         "https://www.google.com/maps/search/%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%D8%A7/@29.1022688,31.07939315,17z?hl=en",
 
   siteUrl:        "https://weeding.hamza-halawa.cloud/",
-  previewImage:   "https://weeding.hamza-halawa.cloud/wedding-share-preview.png",
+  previewImage:   "",
 
-  pageTitle:      "دعوة عقد قران حسام ♥ مروة",
+  pageTitle:      "دعوة عقد قران إسلام ♥ رحمة",
   coverEyebrow:   "دعوة عقد قران",
   coverSubtitle:  "فرحتنا تكمل بوجودكم ♥",
   coverButton:    "اضغط على الظرف لفتح الدعوة",
