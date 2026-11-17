@@ -1,0 +1,36 @@
+// ✏️ غيّر أي قيمة هنا وهتظهر في الموقع فوراً
+window.CONFIG = {
+  groom:          "حسام",
+  bride:          "مروة",
+
+  date:           "2026-11-27T12:00:00+02:00",
+  dateLabel:      "٢٧ / ١١ / ٢٠٢٦",
+  timeLabel:      "الجمعة ٢٧ نوفمبر ٢٠٢٦",
+
+  venue:          "مسجد إسلام بالكوم الاحمر",
+  mapUrl:         "https://www.google.com/maps/search/%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%D8%A7/@29.1022688,31.07939315,17z?hl=en",
+
+  siteUrl:        "https://weeding.hamza-halawa.cloud/",
+  previewImage:   "https://weeding.hamza-halawa.cloud/wedding-share-preview.png",
+
+  pageTitle:      "دعوة عقد قران حسام ♥ مروة",
+  coverEyebrow:   "دعوة عقد قران",
+  coverSubtitle:  "فرحتنا تكمل بوجودكم ♥",
+  coverButton:    "اضغط على الظرف لفتح الدعوة",
+
+  cardSub:        "بكل الحب والفرح ندعوكم",
+  cardMessage:    "لأن أجمل اللحظات لا تكتمل إلا بوجود الأحبة\nيسعدنا أن تشاركونا فرحتنا في يوم عقد قراننا",
+
+  detailsTitle:   "تفاصيل ليلتنا الجميلة",
+  detailsSubtitle:"وجودكم هو أجمل هدية وأحلى ذكرى في بداية حكايتنا ♥",
+
+  countdownTitle: "العد التنازلي لفرحتنا",
+
+  footerTitle:    "مستنيينكم تنوّروا فرحتنا",
+  footerSub:      "حضوركم يكمّل حكايتنا 💗",
+
+  shareBtn:       "💌 شارك الدعوة",
+  mapBtn:         "📍 موقع القاعة",
+
+  musicFile:      "wedding-music.mp3"
+};
