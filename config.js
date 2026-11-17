@@ -8,7 +8,7 @@ window.CONFIG = {
   timeLabel:      "الجمعة ٤ ديسمبر ٢٠٢٦ - كتب كتاب والفرش بعد صلاة العصر",
 
   venue:          "مسجد أمير الله",
-  mapUrl:         "https://www.google.com/maps/search/%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%D8%A7%D8%B4%D8%A7/@29.1022688,31.07939315,17z?hl=en",
+  mapUrl:         "https://www.google.com/maps/dir//29.1518937,31.1277834/@29.1519528,31.1276257,143m/data=!3m1!1e3!4m2!4m1!3e0?hl=en&entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
 
   siteUrl:        "https://weeding.hamza-halawa.cloud/",
   previewImage:   "",
