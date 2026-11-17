@@ -30,7 +30,7 @@ window.CONFIG = {
   footerSub:      "حضوركم يكمّل حكايتنا 💗",
 
   shareBtn:       "💌 شارك الدعوة",
-  mapBtn:         "📍 موقع القاعة",
+  mapBtn:         "📍 موقع المسجد",
 
   musicFile:      "wedding-music.mp3"
 };
